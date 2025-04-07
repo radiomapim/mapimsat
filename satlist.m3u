@@ -1,3 +1,16 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/radiomapim/mapimsat/refs/heads/main/iptv.satelite"
+## 📺 TV gratis e legal
+## 👨🏻‍💻 Editor: MAPIM WebTV - IPTV ONLINE - Brasil 🇧🇷
+## 📧 Contato: mapimwebradio@gmail.com
+## 🆕 09/12/2024 | 28/01/2025
+
+##Canais locais
+
+#EXTM3U
+#EXTINF:-1,[BR] tvg-logo="https://mapimhome.wordpress.com/wp-content/uploads/2024/12/iptv-removebg-preview-1-edited.png" group-title="____MAPIM IPTV____"
+
+
+#EXTINF:-1,[BR] tvg-logo="https://mapimhome.wordpress.com/wp-content/uploads/2024/12/iptv-removebg-preview-1-edited.png" group-title="____ IPTV ____"
 #EXTINF:-1,[BR] A&amp;E FHD
  http://supersonictv.live:8080/899559/316805/84935
  #EXTINF:-1,[BR] Animal Planet FHD
