@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/radiomapim/mapimsat/raw/refs/heads/main/SmartTV1"
+#EXTINF:-1 tvg-id="" tvg-name="[BR] https://github.com/radiomapim/mapimsat/raw/refs/heads/main/SmartTV1"
 ## 📺 TV gratis e legal
 ## 👨🏻‍💻 Editor: MAPIM WebTV - IPTV ONLINE - Brasil 🇧🇷
 ## 📧 Contato: mapimwebradio@gmail.com
@@ -6,9 +6,9 @@
 
 ##SmartTV1
 
-#EXTM3U
+#EXTINF
 
-#EXTM3U
+##EXTINF
 #EXTINF:-1 tvg-id="" tvg-name="[BR] A&E FHD" tvg-logo="" group-title="BRAZIL",[BR] A&E FHD
 http://supersonictv.live:8080/682537/231637/84935
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Animal Planet FHD" tvg-logo="" group-title="BRAZIL",[BR] Animal Planet FHD
